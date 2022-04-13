@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab07Sqlite</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="insert">INSERT</string>
+    <string name="update">UPDATE</string>
+    <string name="select">SELECT</string>
+    <string name="delete">DELETE</string>
+    <string name="integrity_error">Integrity Error</string>
+    <string name="key_exists">Key already exists</string>
+    <string name="key_not_exists">Key doesn\'t exists</string>
+    <string name="error">Error</string>
+    <string name="deleted_successfully">Deleted successfully</string>
+    <string name="author">Курчавов Алексей 204 группа СПБКИТ</string>
+</resources>
